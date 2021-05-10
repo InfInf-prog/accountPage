@@ -17,8 +17,8 @@
    /* position:relative;
     text-align: center;*/
    /* font-size: 220px;*/
-   font-family: Impact;
-   letter-spacing: 80px;
+   font-family: Luminari, fantasy;
+   letter-spacing: 50px;
     color: rgba(242, 242, 242, 0.8);
     /*line-height: 0px;*/
     opacity: 0.8;
@@ -31,9 +31,14 @@
     font-size: 200px;
     margin-right: auto;
     margin-left: auto;
-    /*text-transform: uppercase;*/
+  /*  text-transform: uppercase;*/
     /*align-items: flex-end;*/
    /* display:table-cell;
     vertical-align:bottom;*/
 }
+
+
+
+
+
 
