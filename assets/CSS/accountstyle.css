@@ -9,21 +9,31 @@
     left: 0px;
     top: 0px;
     background: linear-gradient(270deg, #95F1F9 5.35%, #4EC5D6 76.96%, #6CBCC3 97.8%);
+    display: flex;
+    align-items: flex-end;
 }
 .header div {
-     /*overflow: hidden;
-    position:relative;*/
-    font-size: 16vw;
-    white-space: nowrap;
-    text-align: center;
+    /*overflow: hidden;*/
+   /* position:relative;
+    text-align: center;*/
    /* font-size: 220px;*/
+   font-family: Impact;
+   letter-spacing: 80px;
     color: rgba(242, 242, 242, 0.8);
     /*line-height: 0px;*/
     opacity: 0.8;
     -moz-user-select: -moz-none;
     -o-user-select: none;
-/*    -khtml-user-select: none;*/
+    -khtml-user-select: none;
     -webkit-user-select: none;
-    user-select: none;
+    user-select: none; 
+    box-align:end;
+    font-size: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    /*text-transform: uppercase;*/
+    /*align-items: flex-end;*/
+   /* display:table-cell;
+    vertical-align:bottom;*/
 }
 
