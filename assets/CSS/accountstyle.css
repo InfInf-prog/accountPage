@@ -16,4 +16,10 @@
     color: rgba(242, 242, 242, 0.8);
     /*line-height: 0px;*/
     opacity: 0.8;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
+
