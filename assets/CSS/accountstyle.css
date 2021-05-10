@@ -13,12 +13,12 @@
     align-items: flex-end;
 }
 .header div {
-    /*overflow: hidden;*/
+      /*overflow: hidden;*/
    /* position:relative;
     text-align: center;*/
    /* font-size: 220px;*/
    font-family: Luminari, fantasy;
-   letter-spacing: 50px;
+   letter-spacing: 20px;
     color: rgba(242, 242, 242, 0.8);
     /*line-height: 0px;*/
     opacity: 0.8;
