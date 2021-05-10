@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header {
+    position: absolute;
+    width: 100%;
+    height: 30%;
+    background: linear-gradient(270deg, #95F1F9 5.35%, #4EC5D6 76.96%, #6CBCC3 97.8%);
+}
+.header div {
+    text-align: center;
+    font-size: 220px;
+    color: rgba(242, 242, 242, 0.8);
+    /*line-height: 0px;*/
+    opacity: 0.8;
+}
